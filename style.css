@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    background-color: orangered;
+    color: white;
+    display:inline-block; 
+    border-radius: 15px;
+
+}
+a{
+        font-size: 24px;
+}
+a:hover{
+ color:green
+}
+a:active{
+    color: red;
+}
+p{
+    color: rgb(99, 6, 6);
+}
